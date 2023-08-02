@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/keyboard.git/static/css/main.28f78254.css",
+    "main.js": "/keyboard.git/static/js/main.e40bccb0.js",
+    "static/js/787.e91ba937.chunk.js": "/keyboard.git/static/js/787.e91ba937.chunk.js",
+    "index.html": "/keyboard.git/index.html",
+    "main.28f78254.css.map": "/keyboard.git/static/css/main.28f78254.css.map",
+    "main.e40bccb0.js.map": "/keyboard.git/static/js/main.e40bccb0.js.map",
+    "787.e91ba937.chunk.js.map": "/keyboard.git/static/js/787.e91ba937.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28f78254.css",
+    "static/js/main.e40bccb0.js"
+  ]
+}
